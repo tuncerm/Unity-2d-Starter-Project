@@ -10,6 +10,10 @@ Platforms       : Windows, Android
 Editor          : Unity 2019.4.1f1
 Render Pipeline : Universal RP
 ```
+The command-line argument for Windows 32-bit:
+```
+-buildTarget Win
+```
 The command-line argument for Android:
 ```
 -buildTarget Android
